@@ -1,0 +1,1 @@
+{"version":2,"name":"webtorrent","builds":[{"src":"*.php","use":"@now/php"}]}
